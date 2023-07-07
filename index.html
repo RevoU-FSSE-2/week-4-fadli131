@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  `
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>Fadli Aryadinata</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" href="responsive.css" />
+    <meta name="viewport" content ="width=device-width, initial-scale=1"/>
+    <script src="https://kit.fontawesome.com/ae360af17e.js" crossorigin="anonymous"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+</head>
+
+
+<body id="home">
+ <header>
+
+      <nav class="navbar">
+            
+                  <div class="navbar-logo">
+                    <img src="image/preview3.png"  alt="Logo" srcset="">
+                  </div>
+                  
+                  <ul class="navbar-menu" id="navbar-menu">
+                    <li><a class="smoothscroll" href="#home">Home</a></li>
+                    <li><a class="smoothscroll" href="#about">About</a></li>
+                    <li><a class="smoothscroll" href="#portofolio">Portofolio</a></li>
+                    <li><a class="smoothscroll" href="#contact">Contact</a></li>
+                  </ul>
+
+                  <div class="hamburger" onclick="toggleMenu(this)">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+            </div>
+        </nav>
+    </header>
+
+    <section id="about">
+
+        <div class="row">
+  
+           <div class="three columns">
+  
+              <img class="profile-pic"  src="image/li.png" alt="li"/>
+  
+           </div>
+  
+           <div class="nine columns main-col">
+
+            <div>
+                <h1  class="saya">HALO, SAYA FADLI ARYADINATA</h1>
+            </div>
+
+            <div class="halo">
+                <p>Full Stack Software Engineer</p>
+            </div>   
+  
+              <h2>About Me</h2>
+
+              <p class="ini-p">My name is Fadli Aryadinata. i am currently a freshgraduate from Bachelor Degree Informatics Engineering at Gunadarma University with GPA 3.32/4.00. I'm interested in System Analyst, Software Development, Front-end Web Developer and Web Programming. Personally, i'm a fast learner, hard worker, follow the rules type of person, and a honest person. i also do my activities and work diligently, i could easily analyze and solve a problem, im easily adapted, and i can work under preasure very well.</p>
+
+        </div>
+  
+     </section> 
+
+     <section class="activity-container"  id="portofolio">
+      <div>
+        <h1 class="saya-2">PORTOFOLIO</h1>
+        <img class="activity-photo" src="image/port1.jpg" alt="portofolio-1" />
+        <img class="activity-photo" src="image/port2.jpg" alt="portofolio-2" />
+        <img class="activity-photo" src="image/port3.jpg" alt="portofolio-3" />
+        <img class="activity-photo" src="image/port4.jpg" alt="portofolio-4" />
+        <img class="activity-photo" src="image/port5.jpg" alt="portofolio-5" />
+        <img class="activity-photo" src="image/port6.jpg" alt="portofolio-6" />
+      </div>
+    </section>
+
+  <section id="contact">
+    <form>
+      <h1 class="saya-2">CONTACT</h1>
+        <div class="container">        
+
+              <div class="row">
+                  <div class="col-25">
+                    <label for="text">Full Name</label>
+                  </div>
+                  <div class="col-75">
+                    <input id="name" type="text" placeholder="Lionel Messi" required>
+                  </div>
+              </div> 
+
+              <div class="row">
+                  <div class="col-25">
+                    <label for="date">Date</label>
+                  </div>
+                  <div class="col-75">
+                    <input id="date" type="date" id="date" name="date" required>
+                  </div>
+              </div>
+
+              <div class="row">
+                  <div class="col-25">
+                    <label for="lname">Email Address</label>
+                  </div>
+                  <div class="col-75">
+                    <input id="email" type="text"  placeholder="udin@gmail.com" required>
+                </div>
+              </div>
+
+              <div class="row">
+                  <div class="col-25">
+                    <label for="country">Where do you know me?</label>
+                  </div>
+                  <div class="col-75">
+                    <select name="country">
+                      <option value="Linkedln">Linkedln</option>
+                      <option value="Github">Github</option>
+                      <option value="Instagram">Instagram</option>
+                      <option value="Facebook">Facebook</option>
+                    </select>
+                </div>
+              </div>
+
+            <div class="row">
+              <div class="col-25">
+                <label for="subject">Message</label>
+              </div>
+              <div class="col-75">
+                <textarea id="subject" name="subject" placeholder="Type your message here.." style="height:200px"></textarea>
+              </div>
+            </div>
+
+              <button class="button" type="submit" value="Submit">Send</button>
+    </div>
+  </form>
+</section>
+
+  <div class="footer">
+      <p>Copyright©2023</p>
+  </div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
