@@ -7,7 +7,7 @@ Interested in working with me? Need help on your project? Or just wanna say hi? 
 **fadliaryadinata011@gmail.com**
 
 ## Web preview
-![preview]<img width="843" alt="readme" src=(https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/98dbb994-21fe-4b8f-ba58-1cf4c5e2c326)
+![preview]<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/98dbb994-21fe-4b8f-ba58-1cf4c5e2c326">
 
 ## Authors
 
@@ -21,15 +21,15 @@ Interested in working with me? Need help on your project? Or just wanna say hi? 
 
 ### Hosted On
 * Niagahoster
-![]<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/42d5fccd-b7d3-49ba-9501-10bb013b26a5"
+![]<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/42d5fccd-b7d3-49ba-9501-10bb013b26a5">
 
 ### Deployment On
 * Netlify
-![]<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/30ee3aa4-980e-4fd9-9bfa-8a040188a9ca"
+![]<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/30ee3aa4-980e-4fd9-9bfa-8a040188a9ca">
 
 ### DNS Server On
 * Cloudflare
-![]<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/2897d951-9739-49f0-891e-19f03e1ddfb6"
+![]<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/2897d951-9739-49f0-891e-19f03e1ddfb6">
 
 ### WEBSITE CONTENT 
 - Header
