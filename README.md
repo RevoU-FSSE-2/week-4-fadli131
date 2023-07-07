@@ -34,8 +34,17 @@ Interested in working with me? Need help on your project? Or just wanna say hi? 
 => **We choose to deploy with Github.**\
 <img width="343" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/0deb14ca-73b2-45cd-9917-a77065863495">
 
-=> **We choose to deploy with Github.**\
-<img width="343" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/0deb14ca-73b2-45cd-9917-a77065863495">
+=> **Select the repository to deploy and click the deploy button.**\
+<img width="343" alt="readme" src="(https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/3ab8bc89-82cd-40ab-801e-5cb35b1a2bc1">
+
+=> **After successful deployment then do the domain settings.**\
+<img width="343" alt="readme" src="(https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/d334af68-2b10-4e98-a371-a36dbd6f62b8">
+
+=> **Click add domain.**\
+<img width="343" alt="readme" src="(https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/ea283c2a-0f8b-4634-b072-b56b38848577">
+
+=> **Enter the domain name that we have previously set in the hosting section**\
+<img width="343" alt="readme" src="(https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/ea283c2a-0f8b-4634-b072-b56b38848577">
 
 ### DNS Server On
 * Cloudflare
