@@ -24,8 +24,18 @@ Interested in working with me? Need help on your project? Or just wanna say hi? 
 <img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/42d5fccd-b7d3-49ba-9501-10bb013b26a5">
 
 ### Deployment On
-* Netlify
+**Netlify**
+
 <img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/30ee3aa4-980e-4fd9-9bfa-8a040188a9ca">
+
+=> we create a new site to deploy the repository on github
+<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/1a68f8b4-4709-4c0c-90f5-ff6496642aa3">
+
+=> We choose to deploy with Github
+<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/0deb14ca-73b2-45cd-9917-a77065863495">
+
+=> We choose to deploy with Github
+<img width="843" alt="readme" src="https://github.com/RevoU-FSSE-2/week-4-fadli131/assets/109584701/0deb14ca-73b2-45cd-9917-a77065863495">
 
 ### DNS Server On
 * Cloudflare
